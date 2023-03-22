@@ -1,4 +1,9 @@
 {
+  "scripts": {
+
+    "dev": "nodemon server.js"
+    
+    },
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.3",
