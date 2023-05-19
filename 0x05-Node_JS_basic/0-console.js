@@ -4,7 +4,7 @@
  * @author Serah Njoroge <https://github.com/njoroge-s>
  */
 const displayMessage = (msg) => {
-    console.log(msg);
-  };
+  console.log(msg);
+};
   
-  module.exports = displayMessage;
+module.exports = displayMessage;
